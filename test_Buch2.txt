@@ -1,0 +1,3 @@
+$ git clone https://github.com/PacktPublishing/Neural-Network-Projects-with-Python
+
+Loy, James. Neural Network Projects with Python: The ultimate guide to using Python to explore the true power of neural networks through six projects . Packt Publishing. Kindle-Version. 
